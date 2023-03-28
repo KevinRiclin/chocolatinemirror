@@ -9,7 +9,7 @@ on:
     - "ga-ignore-*"
 
 env:
-  MIRROR_URL: "git@github.com:Remi-Mergen/chocolatine-mirror.git"
+  MIRROR_URL: "git@github.com:KevinRiclin/chocolatinemirror.git"
   EXECUTABLES: "binary"
   ARGUMENTS: ""
 
